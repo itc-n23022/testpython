@@ -1,0 +1,2 @@
+# testpython
+pythonの授業
